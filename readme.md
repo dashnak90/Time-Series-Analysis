@@ -1,4 +1,5 @@
 # Time Series Analysis
+###### This project was completed in Week 7 of the Data Science bootcamp at SPICED Academy.
 In this project, I created temperature forecast for Berlin-Tempelhof.
 First,I extracted and cleaned temperature data from www.ecad.eu
 After plotting and inspecting the different components of a time series, I built a baseline model modelling trend and seasonality.
